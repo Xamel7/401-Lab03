@@ -1,0 +1,15 @@
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\bin\Debug\net7.0\Lab03.exe
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\bin\Debug\net7.0\Lab03.deps.json
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\bin\Debug\net7.0\Lab03.runtimeconfig.json
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\bin\Debug\net7.0\Lab03.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\bin\Debug\net7.0\Lab03.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\Lab03.csproj.AssemblyReference.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\Lab03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\Lab03.AssemblyInfoInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\Lab03.AssemblyInfo.cs
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\Lab03.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\refint\Lab03.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\Lab03.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\Lab03.genruntimeconfig.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab03\Lab03\obj\Debug\net7.0\ref\Lab03.dll
