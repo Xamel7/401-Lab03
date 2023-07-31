@@ -277,23 +277,23 @@
 
             try
             {
-                using (StreamWriter writer = new StreamWriter("C:/Users/Student-16/Documents/GitHub/Dev/401-Lab03/Lab03/Words.txt/", true))
+                using (StreamWriter writer = new StreamWriter("/Users/Student-16/Documents/GitHub/Dev/401-Lab03/Lab03/Words.txt/", true))
                 {
                     writer.WriteLine(word);
                 }
                 Console.WriteLine(word);
             }
-            catch (IOException ex)
+            catch (IOException e)
             {
-                Console.WriteLine("An error occurred while saving the word: " + ex.Message);
+                Console.WriteLine("An error occurred while saving the word: " + e.Message);
             }
         }
 
         public static void Challenge7()
         {
-            if (File.Exists("C:/Users/Student-16/Documents/GitHub/Dev/401-Lab03/Lab03/Words.txt"))
+            if (File.Exists("/Users/Student-16/Documents/GitHub/Dev/401-Lab03/Lab03/Words.txt"))
             {
-                string fileContent = File.ReadAllText("C:/Users/Student-16/Documents/GitHub/Dev/401-Lab03/Lab03/Words.txt");
+                string fileContent = File.ReadAllText("/Users/Student-16/Documents/GitHub/Dev/401-Lab03/Lab03/Words.txt");
                 Console.WriteLine(fileContent);
             }
 
@@ -304,7 +304,7 @@
             Console.Write("Remove word: ");
             string? wordRemoved = Console.ReadLine();
 
-            string filePath = "C:/Users/Student-16/Documents/GitHub/Dev/401-Lab03/Lab03/Words.txt";
+            string filePath = "/Users/Student-16/Documents/GitHub/Dev/401-Lab03/Lab03/Words.txt";
 
             string[] lines = File.ReadAllLines(filePath);
 
